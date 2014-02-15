@@ -53,7 +53,7 @@
       <file leaf-file-name="SiteController.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/protected/controllers/SiteController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="20" selection-start="1150" selection-end="1150" vertical-scroll-proportion="0.33333334" vertical-offset="585" max-vertical-offset="1938">
+            <state line="53" column="8" selection-start="1177" selection-end="1177" vertical-scroll-proportion="0.37352246" vertical-offset="585" max-vertical-offset="1955">
               <folding />
             </state>
           </provider>
@@ -127,6 +127,7 @@
         <option value="$PROJECT_DIR$/protected/modules/en/controllers/DefaultController.php" />
         <option value="$PROJECT_DIR$/protected/config/main.php" />
         <option value="$PROJECT_DIR$/protected/modules/en/views/default/test.php" />
+        <option value="$PROJECT_DIR$/protected/controllers/SiteController.php" />
       </list>
     </option>
   </component>
@@ -587,7 +588,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/controllers/SiteController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="20" selection-start="1150" selection-end="1150" vertical-scroll-proportion="0.33333334" vertical-offset="585" max-vertical-offset="1938">
+        <state line="53" column="8" selection-start="1177" selection-end="1177" vertical-scroll-proportion="0.37352246" vertical-offset="585" max-vertical-offset="1955">
           <folding />
         </state>
       </provider>
