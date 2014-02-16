@@ -56,6 +56,7 @@ $this->widget('yiiwheels.widgets.google.WhVisualizationChart', array(
         'title' => 'Stats',
         'width'=>400,
         'height'=>400
+
     )
 ));
 ?>
